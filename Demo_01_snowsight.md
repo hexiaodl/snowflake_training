@@ -11,5 +11,8 @@
 * database
 * schema
 ### 5.create folder
+Name:Demo
 ### 6.create worksheet
+Name:demo_01_snowsight
 ### 7.create query sample
+  SELECT CURRENT_WAREHOUSE() as WH, CURRENT_ROLE() AS ROLE;
