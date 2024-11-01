@@ -1,1 +1,2 @@
 # snowflake_training
+罗列Snowflake core培训中用到的一些demo
