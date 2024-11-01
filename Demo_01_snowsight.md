@@ -1,7 +1,7 @@
-### log in
-### menu introduction
-### user profile
-### worksheets introduction
+### 1.log in
+### 2.menu introduction
+### 3.user profile introduction
+### 4.worksheets introduction
 #### features:
 * auto-save
 * history
@@ -10,6 +10,6 @@
 * role
 * database
 * schema
-### create folder
-### create worksheet
-### create query sample
+### 5.create folder
+### 6.create worksheet
+### 7.create query sample
