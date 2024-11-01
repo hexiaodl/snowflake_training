@@ -1,12 +1,12 @@
-# 1.log in#
-# 2.menu introduction
-# 3.user profile
-# 4.worksheets introduction
+# log in
+# menu introduction
+# user profile
+# worksheets introduction
 ## features:
-	auto-save
-	history
+*auto-save
+*history
 ## context setting:
-	virtual warehouse
-	role
-	database
-	schema
+*virtual warehouse
+*role
+*database
+*schema
