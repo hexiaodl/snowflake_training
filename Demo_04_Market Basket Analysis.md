@@ -31,3 +31,6 @@
     WHERE WS_WEB_SITE_SK = input_web_site_sk)
     GROUP BY ws_web_site_sk
     ORDER BY 3 DESC, 2';
+
+### 4. 其他user使用UDF
+    SELECT * FROM TABLE(DEMO3D_DB.PUBLIC.GET_MKTBASKET(1));
